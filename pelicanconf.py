@@ -8,6 +8,14 @@ TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'ja'
 
+FAVICON = 'favicon.ico'
+FAVICON_TYPE = 'image/vnd.microsoft.icon'
+
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {
+    'extra/' + FAVICON: {'path': FAVICON},
+}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
