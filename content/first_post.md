@@ -3,7 +3,7 @@ Date: 2026-08-17
 Slug: 20260817_first_post
 Category: Test
 Tags: Test
-Summary: 最初の投稿/表示テスト
+Summary: 最初の投稿&表示テスト
 
 # 目次
 - [見出し](#見出し)
